@@ -1,0 +1,9 @@
+D:\учеба\MsgServer\SharpClient\bin\Debug\SharpClient.exe.config
+D:\учеба\MsgServer\SharpClient\bin\Debug\SharpClient.exe
+D:\учеба\MsgServer\SharpClient\bin\Debug\SharpClient.pdb
+D:\учеба\MsgServer\SharpClient\obj\Debug\SharpClient.csproj.CoreCompileInputs.cache
+D:\учеба\MsgServer\SharpClient\obj\Debug\SharpClient.exe
+D:\учеба\MsgServer\SharpClient\obj\Debug\SharpClient.pdb
+D:\учеба\MsgServer\Debug\SharpClient.exe.config
+D:\учеба\MsgServer\Debug\SharpClient.exe
+D:\учеба\MsgServer\Debug\SharpClient.pdb
